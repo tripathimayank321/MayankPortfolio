@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "ReactJS Project",
     description: "Build in React with proper validations",
     image: "./TodoList.gif",
-    link: "https://tripathimayank321.github.io/",
+    link: "https://tripathimayank321.github.io/TodoList/",
   },
   /*{
     title: "React Tracks",
