@@ -2,9 +2,10 @@ export const projects = [
   {
     title: "Todo List",
     subtitle: "ReactJS Project",
-    description: "Build in React with proper validations",
+    description:
+      "Build in React with proper validations, React Router Components, Error Handling, Input Validations",
     image: "./TodoList.gif",
-    link: "https://tripathimayank321.github.io/TodoList/",
+    link: "https://todo-list-tripathimayank321.vercel.app/",
   },
   /*{
     title: "React Tracks",
